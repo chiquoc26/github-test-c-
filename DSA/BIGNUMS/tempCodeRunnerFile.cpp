@@ -1,0 +1,1 @@
+if(check != -10) kq.erase(0,check + 1);
